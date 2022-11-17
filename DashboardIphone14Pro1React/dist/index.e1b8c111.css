@@ -1,0 +1,110 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://fonts.googleapis.com/css?family=Gidugu:400";
+@import "https://px.animaapp.com/6230c0482a303e547d5d7aa7.6230c053d6d8d86528fbe6f7.6238c81386124e96bc8721bb.rcp.png";
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.container-center-horizontal {
+  pointer-events: none;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.iphone-14-pro-1 {
+  height: 2746px;
+  width: 958px;
+  border: 1px dashed #9747ff;
+  align-items: flex-start;
+  padding: 0 20px;
+  display: flex;
+  position: relative;
+}
+
+.property-1-default {
+  background-color: var(--white);
+  height: 1343px;
+  width: 918px;
+  border: 1px;
+  align-items: flex-start;
+  padding: 7px 20px;
+  display: flex;
+}
+
+.overlap-group {
+  height: 1315px;
+  width: 878px;
+  position: relative;
+}
+
+.rectangle-1 {
+  height: 1301px;
+  width: 878px;
+  background-color: #7cc5ee;
+  border: 1px;
+  border-radius: 15px;
+  position: absolute;
+  top: 14px;
+  left: 0;
+}
+
+.image-2 {
+  height: 98px;
+  width: 245px;
+  position: absolute;
+  top: 32px;
+  left: 156px;
+}
+
+.image-3 {
+  height: 151px;
+  width: 200px;
+  position: absolute;
+  top: 187px;
+  left: 178px;
+}
+
+.image-4 {
+  height: 79px;
+  width: 312px;
+  position: absolute;
+  top: 235px;
+  left: 378px;
+}
+
+.title {
+  color: var(--black);
+  font-family: var(--font-family-gidugu);
+  font-size: var(--font-size-m);
+  letter-spacing: 0;
+  text-align: center;
+  width: 327px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 414px;
+}
+
+
+
+:root {
+  --black: #000;
+  --white: #fff;
+  --font-size-m: 88px;
+  --font-family-gidugu: "Gidugu", Helvetica;
+}
+
+/*# sourceMappingURL=index.e1b8c111.css.map */

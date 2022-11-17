@@ -1,0 +1,65 @@
+.property-1-default {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1343px;
+  padding: 7px 20.0px;
+  width: 918px;
+}
+
+.overlap-group {
+  height: 1315px;
+  position: relative;
+  width: 878px;
+}
+
+.rectangle-1 {
+  background-color: #7cc5ee;
+  border: 1px none;
+  border-radius: 15px;
+  height: 1301px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 878px;
+}
+
+.image-2 {
+  height: 98px;
+  left: 156px;
+  position: absolute;
+  top: 32px;
+  width: 245px;
+}
+
+.image-3 {
+  height: 151px;
+  left: 178px;
+  position: absolute;
+  top: 187px;
+  width: 200px;
+}
+
+.image-4 {
+  height: 79px;
+  left: 378px;
+  position: absolute;
+  top: 235px;
+  width: 312px;
+}
+
+.title {
+  color: var(--black);
+  font-family: var(--font-family-gidugu);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 327px;
+}
+
